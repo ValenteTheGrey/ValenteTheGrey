@@ -1,6 +1,6 @@
-###Mis primeros pasos en GitHub
+### Mis primeros pasos en GitHub
 
-##Estoy muy emocionado!!
+## Estoy muy emocionado!!
 
 
 - 👋 Hi, I’m @ValenteTheGrey
